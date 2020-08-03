@@ -8,6 +8,6 @@ def test_answer2():
 
 
 def test_answer3():
-    assert module.inc(30) == 31
+    assert module.inc(30) == 35
 
 
