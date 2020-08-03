@@ -4,7 +4,7 @@
        name: git
        state: present
    - git:
-       repo: https://github.com/bhuvaneshnakka/mypythoncode
+       repo: https://github.com/bhuvaneshnakka/vennydemo
        dest: /home/ec2-user/python
 
 
